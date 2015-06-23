@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\igloolab_projects\AndroidStudioProjects\VademecumMK\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\igloolab_projects\AndroidStudioProjects\VademecumMK\app\build\intermediates\pre-dexed\release\classes-98656b9b8bb6f65776d782fa0ea6b0efb59df853.jar" />
+    </item>
+    <item
+        jar="D:\igloolab_projects\AndroidStudioProjects\VademecumMK\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\igloolab_projects\AndroidStudioProjects\VademecumMK\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-2235d5f2dad5ff57df79d5e4421df680aa15a96b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Igloo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\igloolab_projects\AndroidStudioProjects\VademecumMK\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-a61f60b20a69c0a9498e23bb8c18059707298896.jar" />
+    </item>
+    <item
+        jar="D:\igloolab_projects\AndroidStudioProjects\VademecumMK\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\igloolab_projects\AndroidStudioProjects\VademecumMK\app\build\intermediates\pre-dexed\release\classes-cbc8c8c3cc471ecdbe53fe71764d31c58b30b210.jar" />
+    </item>
+    <item
+        jar="D:\igloolab_projects\AndroidStudioProjects\VademecumMK\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\igloolab_projects\AndroidStudioProjects\VademecumMK\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-2235d5f2dad5ff57df79d5e4421df680aa15a96b.jar" />
+    </item>
+    <item
+        jar="D:\igloolab_projects\AndroidStudioProjects\VademecumMK\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\igloolab_projects\AndroidStudioProjects\VademecumMK\app\build\intermediates\pre-dexed\release\classes-98656b9b8bb6f65776d782fa0ea6b0efb59df853.jar" />
+    </item>
+    <item
+        jar="C:\Users\Igloo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\igloolab_projects\AndroidStudioProjects\VademecumMK\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-a61f60b20a69c0a9498e23bb8c18059707298896.jar" />
+    </item>
+    <item
+        jar="D:\igloolab_projects\AndroidStudioProjects\VademecumMK\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\igloolab_projects\AndroidStudioProjects\VademecumMK\app\build\intermediates\pre-dexed\release\classes-cbc8c8c3cc471ecdbe53fe71764d31c58b30b210.jar" />
+    </item>
+
+</items>

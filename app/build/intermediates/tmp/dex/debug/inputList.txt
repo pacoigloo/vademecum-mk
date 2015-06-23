@@ -1,0 +1,5 @@
+D:\igloolab_projects\AndroidStudioProjects\VademecumMK\app\build\intermediates\classes\debug
+D:\igloolab_projects\AndroidStudioProjects\VademecumMK\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-a61f60b20a69c0a9498e23bb8c18059707298896.jar
+D:\igloolab_projects\AndroidStudioProjects\VademecumMK\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-2235d5f2dad5ff57df79d5e4421df680aa15a96b.jar
+D:\igloolab_projects\AndroidStudioProjects\VademecumMK\app\build\intermediates\pre-dexed\debug\classes-98656b9b8bb6f65776d782fa0ea6b0efb59df853.jar
+D:\igloolab_projects\AndroidStudioProjects\VademecumMK\app\build\intermediates\pre-dexed\debug\classes-cbc8c8c3cc471ecdbe53fe71764d31c58b30b210.jar

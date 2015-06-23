@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.vademacum.MainActivity" >
+
+    <item
+        android:id="@+id/action_index"
+        android:icon="@drawable/ic_index"
+        android:showAsAction="ifRoom"
+        android:title="@+string/index_tittle"/>
+
+</menu>

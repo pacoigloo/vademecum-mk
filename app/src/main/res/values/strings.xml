@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">Vademécum MK</string>
+    <string name="action_settings">Configuración</string>
+    <string name="medicaments">Medicamentos</string>
+    <string name="treatments">Tratamientos</string>
+    <string name="search_medicament">Buscar un medicamento</string>
+    <string name="search_treatament">Buscar una terapia</string>
+    <string name="index_tittle">Indice</string>
+    <string name="index_button">Cancelar</string>
+
+    <string-array name="treaments_list">
+        <item>Antiinfecciosos Sistémicos Generales</item>
+        <item>Dermatológicos</item>
+        <item>Parasitología</item>
+        <item>Preparados Hormonales Sistémicos</item>
+        <item>Sangre y Aparato Hematopoyético</item>
+        <item>Sistema Cardiovascular</item>
+        <item>Sistema Genitourinario</item>
+        <item>Sistema Músculo Esquelético</item>
+        <item>Sistema Nervioso Central</item>
+        <item>Sistema Respiratorio</item>
+        <item>Tracto Alimentario y Metabolismo</item>
+        <item>Visión</item>
+    </string-array>
+
+    <string-array name="index_tittles">
+        <item>Composición</item>
+        <item>Descripción</item>
+        <item>Mecanismo de acción</item>
+        <item>Indicaciones</item>
+        <item>Posología</item>
+        <item>Contraindicaciones y Advertencias</item>
+        <item>Precauciones</item>
+        <item>Eventos Adversos</item>
+        <item>Interacciones Farmacológicas</item>
+        <item>Embarazo y Lactancia</item>
+        <item>Sobredosis</item>
+        <item>Recomendaciones Generales</item>
+        <item>Presentaciones</item>
+        <item>Disponible en</item>
+    </string-array>
+
+</resources>

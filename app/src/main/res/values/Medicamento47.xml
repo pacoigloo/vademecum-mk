@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="medicament_name47">Clopidogrel MK®</string>
+	<string name="treament47">Sangre y Aparato Hematopoyético</string>
+	<string name="tags47">Clopidogrel.Tabletas.Tabletas Recubiertas.Inhibidor.plaquetaria.difosfato.Antiagregante plaquetario</string>
+	<string name="html_text47" formatted="false"><![CDATA[
+		<html>
+			<head>
+				<meta charset="UTF-8">
+				<link rel="stylesheet" type="text/css" href="MedSources/style.css">
+				<script type="text/javascript" src="MedSources/jquery-2.1.1.min.js"></script>
+				<script type="text/javascript" src="MedSources/Scroller.js"></script>
+			</head>
+			<body>
+				<p>Tabletas Recubiertas<br>Inhibidor de la agregación plaquetaria<br>(Clopidogrel)</p>
+				<h1>COMPOSICIÓN</h1>
+				<p>Cada tableta recubierta de CLOPIDOGREL MK® contiene Clopidogrel bisulfato equivalente a Clopidogrel base 75 mg; excipientes c.s.</p>
+				<img src="img/sangre_y_aparato_hematopoyetico/clopidogrel.jpg" />
+				<h1>PRESENTACIONES</h1>
+				<p>CLOPIDOGREL MK®, caja por 10 tabletas recubiertas de 75 mg. Reg. San. Nº INVIMA 2002 M-0002082.</p>
+				<h1>DESCRIPCIÓN</h1>
+				<p>El CLOPIDOGREL MK®  es un inhibidor de la activación y agregación plaquetaria a través de la unión irreversible de su metabolito activo a los receptores de la adenosina difosfato (ADP) de las plaquetas.</p>
+				<h1>MECANISMO DE ACCIÓN</h1>
+				<p>El metabolito activo de Clopidogrel inhibe selectivamente la unión de la adenosina difosfato (ADP) a su receptor plaquetario P2Y12 y la subsiguiente activación mediada por ADP de la glicoproteína IIb/IIIa, inhibiendo de esta manera la agregación plaquetaria, este efecto es irreversible y se debe esperar a que se renueven las plaquetas antes de que se normalice nuevamente el proceso de adhesión. La inhibición de la agregación plaquetaria se detecta 3 horas después de la administración de 300 mg o después del segundo día del tratamiento, con 50 a 100 mg/día.</p>
+				<h1>FARMACOLOGÍA CLÍNICA</h1>
+				<ul>
+					<li><strong>Absorción:</strong>El Clopidogrel se absorbe bien por vía oral, encontradose hasta un 50% de la dosis administrada en orina, sin que se altere de manera significativa por los alimentos.</li>
+					<li><strong>Metabolismo:</strong>Clopidogrel es ampliamente metabolizado por dos vías metabólicas principales: una mediada por esterasas que lleva a la hidrólisis en un derivado del ácido carboxílico inactivo (esto ocurre para el 85% de los metabolitos circulantes) y otra que es mediada por múltiples isoenzimas del citocromo P450 que primero oxidan el Clopidogrel a un metabolito intermedio 2-oxo-Clopidogrel y posteriormente es transformado a un metabolito intermedio, que finalmente da lugar al metabolito activo, un derivado tiol de Clopidogrel. Esta vía metabólica está mediada por las isoformas CYP2C19, CYP3A, CYP2B6 y CYP1A2.</li>
+					<li><strong>Eliminación:</strong>Tras una dosis oral de Clopidogrel marcado con carbono 14, aproximadamente el 50% de la radiactividad total se excreta en la orina y aproximadamente el 46% en las heces durante los 5 días posteriores a la dosis.</li>
+				</ul>
+				<h1>INDICACIONES</h1>
+				<p>Antiagregante plaquetario.<br>
+					<strong>Tratamiento de los síndromes coronarios agudos:</strong>angina inestable, infarto del miocardio de onda no Q.
+				</p>
+				<p>Antiagregante plaquetario.</p>
+				<h1>POSOLOGÍA</h1>
+				<ul>
+					<li><strong>Infarto de miocardio reciente o enfermedad arterial establecida:</strong>75 mg/día.</li>
+					<li><strong>Síndrome coronario agudo:</strong>300 mg, seguido por 75 mg 1 vez/día.</li>
+				</ul>
+				<h1>CONTRAINDICACIONES Y ADVERTENCIAS</h1>
+				<p>Hipersensibilidad al medicamento. Sangrado patológico activo por ejemplo úlcera péptica o hemorragia intracraneal. Embarazo, lactancia. <br><strong>Advertencia:</strong> El uso concomitante con Inhibidores de la bomba de protones (IBP), reduce la efectividad y la actividad antiplaquetaria del Clopidogrel, incrementando en los pacientes el riesgo y exposición a eventos cardiovasculares al permitir la agregación plaquetaria (Ej. Trombosis). Se sugiere no utilizar en lo posible esta asociación, pero en caso de estar indicado el uso concomitante de IBP, requiere un monitoreo estricto de la función plaquetaria y en lo posible utilizar IBP que no inhiban la CYP2C19. El médico tratante debe hacer una evaluación riesgo beneficio e informar al paciente. Se sugiere tomar el IBP en la mañana y el Clopidogrel en la noche con un intervalo de 12 a 15 horas entre las medicaciones.</p>
+				<h1>PRECAUCIONES</h1>
+				<p>La efectividad del Clopidogrel es dependiente de su activación a un metabolito activo por el citocromo P450 principalmente la isoforma CYP2C19, en pacientes que sean pobres metabolizadores se debe tener en cuenta este efecto para reorientar la terapia. En individuos con riesgo hemorrágico. En caso de cirugía electiva suspender el producto siete días antes de ésta. Se han reportado casos de púrpura trombótica trombocitopénica (PTT), generalmente en las primeras 2 semanas de la terapia. En pacientes que reciben concomitantemente anticoagulantes u otros medicamentos antiplaquetarios; enfermedad hepática; pacientes con hipersensibilidad previa u otros inconvenientes relacionados con ticlopidina; hipertensión; falla renal; historia de sangrado o trastornos hemostáticos relacionados al fármaco.</p>
+				<h1>EVENTOS ADVERSOS</h1>
+				<p>Como con todas los fármacos que puedan afectar la hemostasis, el sangrado se asocia al Clopidogrel. La incidencia total de problemas gastrointestinales (dolor abdominal, vómito, dispepsia, gastritis y estreñimiento) se ha documentado en un número importante de pacientes, pero el porcentaje sigue siendo menor comparado con los que se presentan en los pacientes tratados con ácido acetilsalicílico. Se debe tener especial precaución ante la aparición de sangrado del sistema digestivo, debiendo valorar nuevamente al paciente para realizar un análisis de riesgo beneficio para continuar con la terapia.<br><br>Otros eventos adversos que han sido reportados con el uso de Clopidogrel son dolor en el pecho, edema, hipertensión, cefalea, mareo, depresión, fatiga, dolor generalizado, erupción, prurito, hipercolesterolemia, infección urinaria, púrpura, epistaxis, artralgia, dolor de espalda, disnea, rinitis, bronquitis, tos, infecciones respiratorias superiores, síndrome gripal, fibrilación atrial, falla cardiaca, palpitaciones, síncope, fiebre, insomnio, vértigo, ansiedad, eczema, gota, hiperuricemia, cistitis, hematomas, anemia, artritis, calambres en miembros inferiores, neuralgia, parestesias, debilidad, cataratas y conjuntivitis. En menos del 1% de los pacientes se ha reportado la aparición de agranulocitosis, anemia aplástica, anemia hipocrómica, angioedema, broncoespasmo, erupción ampollosa, erupción maculopapular, fiebre, granulocitopenia, hematuria, hemoptisis, hemorragia intracraneal, hemorragia ocular, hemorragia pulmonar, hemotórax, hepatitis, hígado graso, hiperbilirrubinemia, leucopenia, menorragia, necrosis isquémica, neutropenia, púrpura, púrpura trombótica trombocitopénica, reacción alérgica, reacción anafilactoide, sangrado retroperitoneal, trombocitopenia, urticaria.</p>
+				<h1>INTERACCIONES FARMACOLÓGICAS</h1>
+				<p>La administración conjunta de omeprazol y Clopidogrel, produce una disminución significativa de las concentraciones plasmáticas del Clopidogrel y el área bajo la curva, con una pérdida importante de su efecto clínico. En altas concentraciones, puede interferir con el metabolismo de amiodarona, cisaprida, ciclosporina, diltiazem, fenitoína, fluvastatina, hipoglucemiantes orales, irbesartán, losartán, paclitaxel, quinidina, sildenafil, tamoxifén, torsemida, verapamilo, y algunos antiinflamatorios no esteroideos, lo que puede dar lugar a toxicidad. El Clopidogrel y naproxeno dan lugar a un aumento de la pérdida oculta de sangre en el tracto gastrointestinal. Anticoagulantes (warfarina, trombolíticos, drotrecogín alfa) u otros agentes antiplaquetarios pueden aumentar el riesgo de sangrado.</p>
+				<h1>EMBARAZO Y LACTANCIA</h1>
+				<p><strong>Categoría B:</strong> Los estudios de reproducción en animales no han demostrado riesgo sobre el feto, sin embargo, no hay estudios clínicos adecuados y bien controlados en mujeres embarazadas o estudios en animales han mostrado un efecto adverso, pero estudios clínicos adecuados y bien controlados en mujeres embarazadas no han demostrado riesgo sobre el feto.</p>
+				<h1>SOBREDOSIS</h1>
+				<p>La inhibición plaquetaria por Clopidogrel es irreversible y se prolongará durante toda la vida de la plaqueta. La sobredosis después de la administración de Clopidogrel puede resultar en complicaciones hemorrágicas. Una dosis oral única de Clopidogrel de 1.500 ó 2.000 mg/kg fue letal para ratones y ratas y de 3.000 mg/kg para babuinos. Los síntomas de toxicidad aguda incluyeron vómito, postración, dificultad respiratoria y hemorragia gastrointestinal en animales. Con base en análisis de similitud biológica, la transfusión plaquetaria puede restaurar la habilidad de coagulación.</p>
+				<h1>RECOMENDACIONES GENERALES</h1>
+				<p>Almacenar en un lugar seco a temperatura menor a 30ºC. Manténgase fuera del alcance de los niños. Medicamento de venta con fórmula médica. No usar este producto una vez pasada la fecha de vencimiento o caducidad.</p>
+			</body>
+		</html>]]>
+	</string>
+</resources>

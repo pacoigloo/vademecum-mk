@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="medicament_tittle_color">#a0f30000</color>
+
+    <color name="antiinfecciosos_sistemicos_generales">#a1a40012</color>
+    <color name="dermatologicos">#d704956d</color>
+    <color name="parasitologia">#b0001397</color>
+    <color name="preparados_hormonales_sistemicos">#7900ff6a</color>
+    <color name="sangre_y_aparato_hematopoyetico">#ff404040</color>
+    <color name="sistema_cardiovascular">#ff838383</color>
+    <color name="sistema_genitourinario">#a0004bff</color>
+    <color name="sistema_musculo_esqueletico">#ff00bfff</color>
+    <color name="sistema_nervioso_central">#8ecf00ff</color>
+    <color name="sistema_respiratorio">#9eff9400</color>
+    <color name="tracto_alimentario_y_metabolismo">#afd0b600</color>
+    <color name="vision">#cc0012ff</color>
+
+</resources>
