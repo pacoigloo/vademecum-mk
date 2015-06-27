@@ -13,6 +13,7 @@ import android.support.v4.app.FragmentTransaction;
 import android.support.v4.app.ListFragment;
 import android.text.Editable;
 import android.text.TextWatcher;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -38,11 +39,14 @@ public class MedicamentsFragment extends ListFragment {
 
         String[] medicamentNames = fillList(view, "medicament_name");
         String[] medicamentTypes = fillList(view, "treament");
+        String[] medicamentCountry = fillList(view, "country");
 
         final RowAdapter adapter = new RowAdapter(container.getContext(),
                 R.layout.row_medicament, medicamentNames, medicamentTypes);
 
         setListAdapter(adapter);
+
+
 
         EditText search = (EditText) view
                 .findViewById(R.id.medicament_searcher);
@@ -108,7 +112,6 @@ public class MedicamentsFragment extends ListFragment {
         while (index != 0) {
             int source = view.getResources().getIdentifier(resource + index,
                     "string", view.getContext().getPackageName());
-
             if (source == 0) {
                 index = 0;
                 break;

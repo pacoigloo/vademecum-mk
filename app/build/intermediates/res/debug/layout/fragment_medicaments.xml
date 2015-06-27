@@ -14,6 +14,41 @@
         android:hint="@string/search_medicament" >
     </EditText>
 
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="#e5e6e8">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Todos"
+            android:id="@+id/country_all"
+            android:layout_weight="0.3"
+            style="?android:attr/borderlessButtonStyle"
+            android:textColor="@drawable/toggle_button_text" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Colombia"
+            android:id="@+id/country_co"
+            android:layout_weight="0.3"
+            style="?android:attr/borderlessButtonStyle"
+            android:textColor="@drawable/toggle_button_text" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ecuador"
+            android:id="@+id/country_ec"
+            android:layout_weight="0.3"
+            style="?android:attr/borderlessButtonStyle"
+            android:textColor="@drawable/toggle_button_text" />
+    </LinearLayout>
+
     <ListView
         android:id="@android:id/list"
         android:layout_width="match_parent"
