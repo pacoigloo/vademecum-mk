@@ -17,6 +17,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 
@@ -66,6 +67,41 @@ public class MedicamentsFragment extends ListFragment {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count,
                                           int after) {
+            }
+        });
+
+        //Button action
+
+        Button buttonAll = (Button) view
+                .findViewById(R.id.country_all);
+
+        Button buttonCo = (Button) view
+                .findViewById(R.id.country_co);
+
+        Button buttonEc = (Button) view
+                .findViewById(R.id.country_ec);
+
+        buttonAll.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Log.d("ButtonClick", "Todos");
+                adapter.getFilter().filter("a");
+            }
+        });
+
+        buttonCo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Log.d("ButtonClick","Colombia");
+                adapter.getFilter().filter("e");
+            }
+        });
+
+        buttonEc.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Log.d("ButtonClick","Ecuador");
+                adapter.getFilter().filter("i");
             }
         });
 

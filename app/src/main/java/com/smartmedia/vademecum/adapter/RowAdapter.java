@@ -8,9 +8,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.Filterable;
 import android.widget.TextView;
 
-public class RowAdapter extends ArrayAdapter<String> {
+public class RowAdapter extends ArrayAdapter<String> implements Filterable{
 	private String[] text2;
 	private Context context;
 	private int rowLayoutId;
