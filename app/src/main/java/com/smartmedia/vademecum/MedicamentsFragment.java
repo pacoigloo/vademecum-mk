@@ -41,6 +41,7 @@ public class MedicamentsFragment extends ListFragment {
         String[] medicamentNames = fillList(view, "medicament_name");
         String[] medicamentTypes = fillList(view, "treament");
         String[] medicamentCountry = fillList(view, "country");
+        
 
         final RowAdapter adapter = new RowAdapter(container.getContext(),
                 R.layout.row_medicament, medicamentNames, medicamentTypes);
